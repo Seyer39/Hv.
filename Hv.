@@ -1,0 +1,33 @@
+ <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Venta de Huevos - Quinta Región</title>
+</head>
+<body>
+    <header>
+        <h1>Venta de Huevos</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#productos">Productos</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="inicio">
+            <!-- Carrusel de imágenes -->
+        </section>
+        <section id="productos">
+            <!-- Lista de productos -->
+        </section>
+        <section>
+            <!-- Información sobre producción -->
+        </section>
+    </main>
+    <footer>
+        <!-- Información de contacto y redes sociales -->
+    </footer>
+</body>
+</html>
